@@ -453,6 +453,6 @@ PR 一条活的 `https://x.ai/bot/…` 链接、一条真人案例、或一个 G
 
 ## 相关
 
-社区活分享画廊在 [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com)
+社区活分享画廊在 [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com) · [moneywithai.net](https://moneywithai.net)
 
 目录与配方（`catalog.json`、`catalog/`、`templates/`、`packs/`）采用 CC0-1.0（[LICENSE](LICENSE)）。脚本（`scripts/`）采用 MIT（[LICENSE-MIT](LICENSE-MIT)）。英文在 [README.md](README.md)。

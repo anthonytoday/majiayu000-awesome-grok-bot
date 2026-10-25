@@ -453,6 +453,6 @@ Do not invent share URLs. Do not paste another person's full standing instructio
 
 ## Related
 
-Community galleries of live shares: [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com)
+Community galleries of live shares: [somi.ai/grok-bots](https://somi.ai/grok-bots) · [grokbot.dev](https://grokbot.dev) · [grokyard.com](https://www.grokyard.com) · [moneywithai.net](https://moneywithai.net)
 
 Catalog and recipes (`catalog.json`, `catalog/`, `templates/`, `packs/`) are CC0-1.0 ([LICENSE](LICENSE)). Scripts (`scripts/`) are MIT ([LICENSE-MIT](LICENSE-MIT)). Chinese: [README.zh-CN.md](README.zh-CN.md).
